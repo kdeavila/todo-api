@@ -1,1 +1,18 @@
-GET http://localhost:5068
+GET http://localhost:5068/todos
+
+###
+POST http://localhost:5068/todos
+Content-Type: application/json
+
+{
+    "id": 2,
+    "name": "Build an API",
+    "dueDate": "2025-12-05",
+    "isComplete": false
+}
+
+###
+GET http://localhost:5068/todos/2
+
+###
+DELETE http://localhost:5068/todos/2

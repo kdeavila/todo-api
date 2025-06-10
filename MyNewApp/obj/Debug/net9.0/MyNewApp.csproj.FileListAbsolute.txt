@@ -21,3 +21,4 @@ C:\Users\Keyner\Desktop\Dev\dotnet-api-series\MyNewApp\obj\Debug\net9.0\refint\M
 C:\Users\Keyner\Desktop\Dev\dotnet-api-series\MyNewApp\obj\Debug\net9.0\MyNewApp.pdb
 C:\Users\Keyner\Desktop\Dev\dotnet-api-series\MyNewApp\obj\Debug\net9.0\MyNewApp.genruntimeconfig.cache
 C:\Users\Keyner\Desktop\Dev\dotnet-api-series\MyNewApp\obj\Debug\net9.0\ref\MyNewApp.dll
+C:\Users\Keyner\Desktop\Dev\dotnet-api-series\MyNewApp\obj\Debug\net9.0\MyNewApp.sourcelink.json
